@@ -1,0 +1,14 @@
+C:\Users\kayky\Desktop\POO\ExemploException\bin\Debug\net8.0\ExemploException.exe
+C:\Users\kayky\Desktop\POO\ExemploException\bin\Debug\net8.0\ExemploException.deps.json
+C:\Users\kayky\Desktop\POO\ExemploException\bin\Debug\net8.0\ExemploException.runtimeconfig.json
+C:\Users\kayky\Desktop\POO\ExemploException\bin\Debug\net8.0\ExemploException.dll
+C:\Users\kayky\Desktop\POO\ExemploException\bin\Debug\net8.0\ExemploException.pdb
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.AssemblyInfoInputs.cache
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.AssemblyInfo.cs
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.csproj.CoreCompileInputs.cache
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.dll
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\refint\ExemploException.dll
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.pdb
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ExemploException.genruntimeconfig.cache
+C:\Users\kayky\Desktop\POO\ExemploException\obj\Debug\net8.0\ref\ExemploException.dll
